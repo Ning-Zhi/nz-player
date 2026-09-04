@@ -853,18 +853,18 @@
                      },
                      {
                          "id":  107,
-                         "name":  "商河影视频道",
-                         "primary_url":  "http://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8",
+                         "name":  "威海海洋频道",
+                         "primary_url":  "https://v.whnews.cn/hls1/y1Y8U3KWei.m3u8",
                          "backup_url":  "",
-                         "category":  "商河",
+                         "category":  "威海",
                          "player":  "auto"
                      },
                      {
                          "id":  108,
-                         "name":  "平阴县综合频道",
+                         "name":  "鄂尔多斯蒙语",
                          "primary_url":  "http://150.138.8.143/00/SNM/CHANNEL00001050/index.m3u8",
                          "backup_url":  "",
-                         "category":  "平阴",
+                         "category":  "鄂尔多斯",
                          "player":  "auto"
                      },
                      {
@@ -933,6 +933,22 @@
                      },
                      {
                          "id":  117,
+                         "name":  "临清市经济信息频道",
+                         "primary_url":  "https://jsylivealone302.iqilu.com/live/linqing_tv02.m3u8",
+                         "backup_url":  "",
+                         "category":  "临清",
+                         "player":  "auto"
+                     },
+                     {
+                         "id":  118,
+                         "name":  "临清市经济信息频道",
+                         "primary_url":  "https://jsylivealone302.iqilu.com/live/linqing_tv02.m3u8",
+                         "backup_url":  "",
+                         "category":  "临清",
+                         "player":  "auto"
+                     },
+                     {
+                         "id":  119,
                          "name":  "阳谷县影视频道",
                          "primary_url":  "https://jsylivealone302.iqilu.com/yanggu/yanggu_tv01.m3u8",
                          "backup_url":  "",
