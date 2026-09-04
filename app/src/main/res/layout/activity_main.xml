@@ -111,8 +111,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:fadeScrollbars="true"
-            android:scrollbarSize="4dp"
-            android:scrollbarThumbVertical="#4C4FC3F7">
+            android:scrollbarSize="4dp">
 
             <LinearLayout
                 android:id="@+id/channelList"
